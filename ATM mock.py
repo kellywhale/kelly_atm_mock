@@ -2,7 +2,7 @@ import random
 
 
 database = {
-    1234567890: ['Kelly', 'Thomas', 'ola@gmail.com', 'pass', 500]
+    1234567890: ['Kelly', 'Thomas', 'amkellythomas@gmail.com', 'pass', 5000]
 }
 
 
